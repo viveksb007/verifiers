@@ -1,0 +1,7 @@
+# Personal learning sandbox — do not commit anything here.
+*
+!.gitignore
+!*/
+!*/README.md
+!*/litellm.yaml
+!*/run_eval.sh

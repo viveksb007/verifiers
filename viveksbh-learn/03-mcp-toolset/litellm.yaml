@@ -1,0 +1,8 @@
+model_list:
+  - model_name: bedrock-haiku
+    litellm_params:
+      model: bedrock/us.anthropic.claude-haiku-4-5-20251001-v1:0
+      aws_region_name: us-east-1
+
+litellm_settings:
+  drop_params: true
